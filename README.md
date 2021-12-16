@@ -1,3 +1,3 @@
-# PytonPY110-exam
+# PythonPY110-exam
 
 Миндлин Константин Сергеевич
